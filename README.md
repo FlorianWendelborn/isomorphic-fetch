@@ -54,4 +54,4 @@ All open source code released by FT Labs is licenced under the MIT licence.  Bas
 ## Alternatives
 
 - [cross-fetch](https://github.com/lquixada/cross-fetch#why-not-isomorphic-fetch)
-- Using [node-fetch](https://github.com/node-fetch/node-fetch) and the [Fetch polyfill](https://github.com/github/fetch) directly (or from [polyfill.io](https://polyfill.io), or relying on [the browser's implementation of the Fetch API](https://caniuse.com/fetch)).
+- Using [node-fetch](https://github.com/node-fetch/node-fetch) and the [Fetch polyfill](https://github.com/github/fetch) directly, or relying on [the browser's implementation of the Fetch API](https://caniuse.com/fetch)).
